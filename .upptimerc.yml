@@ -7,6 +7,12 @@ sites:
     url: https://gartenallerlei.de
   - name: Rollibeet
     url: https://rollibeet.de
+  - name: Lumodomo
+    url: https://lumodomo.de
+  - name: SPIKA
+    url: https://www.spika-spiele.de
+  - name: Handelsgut
+    url: https://www.handelsgut.net
   - name: Test Broken Site
     url: https://googleisevil.hehe
 
