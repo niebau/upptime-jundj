@@ -13,8 +13,6 @@ sites:
     url: https://www.spika-spiele.de
   - name: Handelsgut
     url: https://www.handelsgut.net
-  - name: Test Broken Site
-    url: https://googlebrokemyheart.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
