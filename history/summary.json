@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gartenallerlei.de.ico",
     "slug": "gartenallerlei",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1984,
     "timeDay": 1543,
     "timeWeek": 2099,
     "timeMonth": 1984,
     "timeYear": 1984,
     "dailyMinutesDown": {
-      "2026-06-02": 9
+      "2026-06-02": 28
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rollibeet.de.ico",
     "slug": "rollibeet",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1536,
     "timeDay": 1207,
     "timeWeek": 1387,
     "timeMonth": 1536,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2026-06-02": 4
+      "2026-06-02": 23
     }
   },
   {
