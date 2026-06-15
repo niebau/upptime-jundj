@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spika-spiele.de.ico",
     "slug": "spika",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.82%",
     "time": 1415,
     "timeDay": 3498,
     "timeWeek": 1853,
@@ -89,9 +89,7 @@
     "timeYear": 1415,
     "dailyMinutesDown": {
       "2026-06-05": 27,
-      "2026-06-13": 65,
-      "2026-06-15": 11,
-      "2026-06-14": 0
+      "2026-06-13": 65
     }
   },
   {
@@ -100,11 +98,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.handelsgut.net.ico",
     "slug": "handelsgut",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.83%",
     "time": 1374,
     "timeDay": 1933,
     "timeWeek": 1444,
@@ -112,8 +110,7 @@
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2026-06-05": 22,
-      "2026-06-13": 60,
-      "2026-06-15": 7
+      "2026-06-13": 60
     }
   }
 ]
