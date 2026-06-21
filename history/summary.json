@@ -4,12 +4,12 @@
     "url": "https://gartenallerlei.de",
     "icon": "https://icons.duckduckgo.com/ip3/gartenallerlei.de.ico",
     "slug": "gartenallerlei",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.56%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.53%",
     "time": 1992,
     "timeDay": 2568,
     "timeWeek": 1967,
@@ -21,7 +21,8 @@
       "2026-06-05": 41,
       "2026-06-13": 80,
       "2026-06-15": 11,
-      "2026-06-14": 15
+      "2026-06-14": 15,
+      "2026-06-21": 20
     }
   },
   {
@@ -29,12 +30,12 @@
     "url": "https://rollibeet.de",
     "icon": "https://icons.duckduckgo.com/ip3/rollibeet.de.ico",
     "slug": "rollibeet",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.69%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.66%",
     "time": 1543,
     "timeDay": 1680,
     "timeWeek": 1704,
@@ -45,7 +46,8 @@
       "2026-06-05": 36,
       "2026-06-13": 75,
       "2026-06-15": 11,
-      "2026-06-14": 10
+      "2026-06-14": 10,
+      "2026-06-21": 15
     }
   },
   {
@@ -53,12 +55,12 @@
     "url": "https://lumodomo.de",
     "icon": "https://icons.duckduckgo.com/ip3/lumodomo.de.ico",
     "slug": "lumodomo",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.78%",
     "time": 2004,
     "timeDay": 2828,
     "timeWeek": 2452,
@@ -68,7 +70,8 @@
       "2026-06-05": 32,
       "2026-06-13": 70,
       "2026-06-15": 11,
-      "2026-06-14": 5
+      "2026-06-14": 5,
+      "2026-06-21": 10
     }
   },
   {
@@ -76,11 +79,11 @@
     "url": "https://www.spika-spiele.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.spika-spiele.de.ico",
     "slug": "spika",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.84%",
     "time": 1421,
     "timeDay": 1670,
@@ -89,7 +92,8 @@
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2026-06-05": 27,
-      "2026-06-13": 65
+      "2026-06-13": 65,
+      "2026-06-21": 5
     }
   },
   {
@@ -97,7 +101,7 @@
     "url": "https://www.handelsgut.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.handelsgut.net.ico",
     "slug": "handelsgut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -110,7 +114,8 @@
     "timeYear": 1362,
     "dailyMinutesDown": {
       "2026-06-05": 22,
-      "2026-06-13": 60
+      "2026-06-13": 60,
+      "2026-06-21": 0
     }
   }
 ]
