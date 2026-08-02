@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gartenallerlei.de.ico",
     "slug": "gartenallerlei",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "98.62%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 2072,
     "timeDay": 2058,
     "timeWeek": 1869,
@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lumodomo.de.ico",
     "slug": "lumodomo",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.79%",
     "time": 2004,
     "timeDay": 1538,
     "timeWeek": 1452,
@@ -78,8 +78,7 @@
       "2026-06-15": 11,
       "2026-06-14": 5,
       "2026-06-21": 88,
-      "2026-06-22": 49,
-      "2026-08-02": 10
+      "2026-06-22": 49
     }
   },
   {
@@ -88,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spika-spiele.de.ico",
     "slug": "spika",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.82%",
     "time": 1586,
     "timeDay": 5051,
     "timeWeek": 1912,
@@ -102,8 +101,7 @@
       "2026-06-05": 27,
       "2026-06-13": 65,
       "2026-06-21": 84,
-      "2026-06-22": 45,
-      "2026-08-02": 5
+      "2026-06-22": 45
     }
   },
   {
@@ -113,8 +111,8 @@
     "slug": "handelsgut",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1427,
@@ -125,8 +123,7 @@
     "dailyMinutesDown": {
       "2026-06-05": 22,
       "2026-06-13": 60,
-      "2026-06-21": 79,
-      "2026-08-02": 1
+      "2026-06-21": 79
     }
   }
 ]
