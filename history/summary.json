@@ -4,16 +4,16 @@
     "url": "https://gartenallerlei.de",
     "icon": "https://icons.duckduckgo.com/ip3/gartenallerlei.de.ico",
     "slug": "gartenallerlei",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.62%",
     "time": 2072,
-    "timeDay": 2189,
-    "timeWeek": 1819,
-    "timeMonth": 1948,
+    "timeDay": 0,
+    "timeWeek": 1837,
+    "timeMonth": 1960,
     "timeYear": 2072,
     "dailyMinutesDown": {
       "2026-06-02": 56,
@@ -24,7 +24,8 @@
       "2026-06-14": 15,
       "2026-06-21": 98,
       "2026-06-22": 59,
-      "2026-06-27": 24
+      "2026-06-27": 24,
+      "2026-08-02": 20
     }
   },
   {
@@ -32,16 +33,16 @@
     "url": "https://rollibeet.de",
     "icon": "https://icons.duckduckgo.com/ip3/rollibeet.de.ico",
     "slug": "rollibeet",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.69%",
     "time": 1593,
-    "timeDay": 1488,
-    "timeWeek": 1528,
-    "timeMonth": 1502,
+    "timeDay": 0,
+    "timeWeek": 1538,
+    "timeMonth": 1507,
     "timeYear": 1593,
     "dailyMinutesDown": {
       "2026-06-02": 52,
@@ -51,7 +52,8 @@
       "2026-06-14": 10,
       "2026-06-21": 93,
       "2026-06-22": 54,
-      "2026-06-27": 19
+      "2026-06-27": 19,
+      "2026-08-02": 15
     }
   },
   {
@@ -59,16 +61,16 @@
     "url": "https://lumodomo.de",
     "icon": "https://icons.duckduckgo.com/ip3/lumodomo.de.ico",
     "slug": "lumodomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.78%",
     "time": 2009,
-    "timeDay": 1564,
-    "timeWeek": 1443,
-    "timeMonth": 1841,
+    "timeDay": 0,
+    "timeWeek": 1437,
+    "timeMonth": 1822,
     "timeYear": 2009,
     "dailyMinutesDown": {
       "2026-06-05": 32,
@@ -76,7 +78,8 @@
       "2026-06-15": 11,
       "2026-06-14": 5,
       "2026-06-21": 88,
-      "2026-06-22": 49
+      "2026-06-22": 49,
+      "2026-08-02": 10
     }
   },
   {
@@ -84,22 +87,23 @@
     "url": "https://www.spika-spiele.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.spika-spiele.de.ico",
     "slug": "spika",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.81%",
     "time": 1549,
-    "timeDay": 1508,
-    "timeWeek": 1360,
-    "timeMonth": 1555,
+    "timeDay": 0,
+    "timeWeek": 1389,
+    "timeMonth": 1567,
     "timeYear": 1549,
     "dailyMinutesDown": {
       "2026-06-05": 27,
       "2026-06-13": 65,
       "2026-06-21": 84,
-      "2026-06-22": 45
+      "2026-06-22": 45,
+      "2026-08-02": 5
     }
   },
   {
@@ -107,21 +111,22 @@
     "url": "https://www.handelsgut.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.handelsgut.net.ico",
     "slug": "handelsgut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1424,
-    "timeDay": 1625,
-    "timeWeek": 1313,
-    "timeMonth": 1519,
+    "timeDay": 0,
+    "timeWeek": 1315,
+    "timeMonth": 1534,
     "timeYear": 1424,
     "dailyMinutesDown": {
       "2026-06-05": 22,
       "2026-06-13": 60,
-      "2026-06-21": 79
+      "2026-06-21": 79,
+      "2026-08-02": 0
     }
   }
 ]
