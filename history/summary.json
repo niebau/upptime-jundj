@@ -4,10 +4,10 @@
     "url": "https://gartenallerlei.de",
     "icon": "https://icons.duckduckgo.com/ip3/gartenallerlei.de.ico",
     "slug": "gartenallerlei",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 2190,
@@ -25,7 +25,8 @@
       "2026-06-21": 98,
       "2026-06-22": 59,
       "2026-06-27": 24,
-      "2026-08-02": 20
+      "2026-08-02": 20,
+      "2026-10-21": 1
     }
   },
   {
@@ -33,10 +34,10 @@
     "url": "https://rollibeet.de",
     "icon": "https://icons.duckduckgo.com/ip3/rollibeet.de.ico",
     "slug": "rollibeet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1605,
@@ -53,7 +54,8 @@
       "2026-06-21": 93,
       "2026-06-22": 54,
       "2026-06-27": 19,
-      "2026-08-02": 15
+      "2026-08-02": 15,
+      "2026-10-21": 1
     }
   },
   {
@@ -61,10 +63,10 @@
     "url": "https://lumodomo.de",
     "icon": "https://icons.duckduckgo.com/ip3/lumodomo.de.ico",
     "slug": "lumodomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1825,
@@ -78,7 +80,8 @@
       "2026-06-15": 11,
       "2026-06-14": 5,
       "2026-06-21": 88,
-      "2026-06-22": 49
+      "2026-06-22": 49,
+      "2026-10-21": 1
     }
   },
   {
@@ -86,9 +89,9 @@
     "url": "https://www.spika-spiele.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.spika-spiele.de.ico",
     "slug": "spika",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -101,7 +104,8 @@
       "2026-06-05": 27,
       "2026-06-13": 65,
       "2026-06-21": 84,
-      "2026-06-22": 45
+      "2026-06-22": 45,
+      "2026-10-21": 0
     }
   },
   {
@@ -110,11 +114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.handelsgut.net.ico",
     "slug": "handelsgut",
     "status": "down",
-    "uptime": "66.97%",
+    "uptime": "66.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.97%",
+    "uptimeYear": "66.73%",
     "time": 1411,
     "timeDay": 0,
     "timeWeek": 0,
@@ -124,7 +128,7 @@
       "2026-06-05": 22,
       "2026-06-13": 60,
       "2026-06-21": 79,
-      "2026-10-21": 228,
+      "2026-10-21": 1084,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
